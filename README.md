@@ -1,2 +1,1 @@
-# Data-science__Linear-regression
-Linear regression project
+Linear-Regression_Ecommerce
